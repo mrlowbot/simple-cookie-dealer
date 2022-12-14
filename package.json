@@ -1,6 +1,6 @@
 {
   "name": "simple-cookie-dealer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A cookie handeling package that let's you do small selection of things with cookies.",
   "main": "index.js",
   "scripts": {
