@@ -1,0 +1,23 @@
+{
+  "name": "simple-cookie-dealer",
+  "version": "1.0.0",
+  "description": "A cookie handeling package that let's you do small selection of things with cookies.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "module",
+    "url": "git+https://github.com/mrlowbot/simple-cookie-handler.git"
+  },
+  "keywords": [
+    "Cookies",
+    "Cookie"
+  ],
+  "author": "mrlowbot",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrlowbot/simple-cookie-handler/issues"
+  },
+  "homepage": "https://github.com/mrlowbot/simple-cookie-handler#readme"
+}
